@@ -1,12 +1,12 @@
 {
   "@context": "https://w3id.org/openbadges/v2",
-  "id": "https://example.com/badges/az900-badge.json",
+  "id": "https://cortezmf.github.io/open-badge-az900/badge_class.json",
   "type": "BadgeClass",
   "name": "Microsoft Certified: Azure Fundamentals (AZ-900)",
   "description": "Certification validating foundational knowledge of cloud concepts and Microsoft Azure services.",
-  "image": "https://example.com/badges/microsoft-certified-fundamentals-badge.svg",
+  "image": "https://cortezmf.github.io/open-badge-az900/microsoft-certified-fundamentals-badge.svg",
   "criteria": {
     "narrative": "Demonstrates foundational knowledge of cloud services and how those services are provided with Microsoft Azure."
   },
-  "issuer": "https://example.com/issuer/microsoft.json"
+  "issuer": "https://cortezmf.github.io/open-badge-az900/issuer.json"
 }

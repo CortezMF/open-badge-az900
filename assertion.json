@@ -1,7 +1,7 @@
 {
   "@context": "https://w3id.org/openbadges/v2",
   "type": "Assertion",
-  "id": "https://example.com/assertions/az900-michel-cortez.json",
+  "id": "https://cortezmf.github.io/open-badge-az900/assertion.json",
   "recipient": {
     "type": "email",
     "hashed": false,
@@ -11,5 +11,5 @@
   "verification": {
     "type": "hosted"
   },
-  "badge": "https://example.com/badges/az900-badge.json"
+  "badge": "https://cortezmf.github.io/open-badge-az900/badge_class.json"
 }

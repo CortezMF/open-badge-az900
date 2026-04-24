@@ -1,6 +1,6 @@
 {
   "@context": "https://w3id.org/openbadges/v2",
-  "id": "https://example.com/issuer/microsoft.json",
+  "id": "https://cortezmf.github.io/open-badge-az900/issuer.json",
   "type": "Issuer",
   "name": "Microsoft",
   "url": "https://www.microsoft.com",
