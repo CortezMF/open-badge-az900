@@ -1,0 +1,15 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "Assertion",
+  "id": "https://example.com/assertions/az900-michel-cortez.json",
+  "recipient": {
+    "type": "email",
+    "hashed": false,
+    "identity": "michel.cortez@hotmail.com"
+  },
+  "issuedOn": "2026-02-20T00:00:00Z",
+  "verification": {
+    "type": "hosted"
+  },
+  "badge": "https://example.com/badges/az900-badge.json"
+}

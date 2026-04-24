@@ -1,0 +1,8 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "id": "https://example.com/issuer/microsoft.json",
+  "type": "Issuer",
+  "name": "Microsoft",
+  "url": "https://www.microsoft.com",
+  "email": "noreply@microsoft.com"
+}
